@@ -1,0 +1,6 @@
+path: /home/shubha/jetson_vision_gpio
+train: calibration_images
+val: calibration_images
+nc: 1
+names:
+  0: person
